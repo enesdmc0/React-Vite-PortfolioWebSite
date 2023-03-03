@@ -13,7 +13,7 @@
 
 ## About The Project
 
-### Netlify Link :  [https://dmcbookingapp.netlify.app/](https://dmcbookingapp.netlify.app/)
+### Netlify Link :  [https://dmcportfolio.netlify.app](https://dmcportfolio.netlify.app)
 
 
 
@@ -59,7 +59,7 @@
 - [ ✉️ enesdmc1907@gmail.com]()
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
-- Project Link: [https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/MERN-BookingApp)
+- Project Link: [https://github.com/enesdmc0/React-Vite-PortfolioWebSite](https://github.com/enesdmc0/React-Vite-PortfolioWebSite)
 
   
 
